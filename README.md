@@ -1,2 +1,1 @@
-# DevnetExplorer
-Professional DevnetExplorer infrastructure with DevnetExplorer-optimized devnetexplorer-optimization and enterprise enterprise-grade capabilities
+.
